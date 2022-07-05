@@ -69,3 +69,34 @@ section {
     height: 500px;
     margin-top: 150px;
 }
+
+.my-recipi {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    text-align: center;
+    line-height: 2px;
+    margin-top: 20px;
+}
+
+.third-width {
+    width: 50%;
+    margin-top: 100px;
+    text-align: justify;
+    border-radius: 20px;
+    margin-left: 90px;
+    box-shadow: 30px;
+    box-shadow: 20px;
+}
+
+.real-size {
+    max-height: 350px;
+    max-width: 2500px;
+}
+
+.para {
+    margin-right: 70px;
+}
