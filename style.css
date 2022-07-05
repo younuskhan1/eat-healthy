@@ -47,3 +47,25 @@ section {
     border-radius: 30px;
     line-height: 80px;
 }
+
+.picture-size {
+    max-width: 45%;
+    height: auto;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+.paragra {
+    margin-right: 150px;
+}
+
+#about-me {
+    margin-top: 200px;
+}
+
+.background-image {
+    background-image: url(images/shapes/7.png);
+    width: 1300px;
+    height: 500px;
+    margin-top: 150px;
+}
